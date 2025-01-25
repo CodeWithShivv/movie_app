@@ -21,6 +21,9 @@ Moview App Made with Flutter
 
 
 ## Screenshots
+<img width="485" alt="Screenshot 2025-01-25 at 8 40 37 PM" src="https://github.com/user-attachments/assets/9c642297-218d-434c-abbb-5725b6010db8" />
+<img width="463" alt="Screenshot 2025-01-25 at 8 40 55 PM" src="https://github.com/user-attachments/assets/4a1163d6-6729-4f4c-a25a-6f9e49ab5b1c" />
+
 
 
 ## Installation
